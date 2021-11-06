@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=0DE9lhgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/sairajatm
+  link: https://github.com/sairajat
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rajatarora9464/

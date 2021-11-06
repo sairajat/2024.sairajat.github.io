@@ -31,7 +31,6 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # external_repository: sairajat/sairajat.github.io
           publish_dir: ./public
           publish_branch: master
           user_name: Rajat Arora

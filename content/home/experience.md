@@ -36,7 +36,7 @@ experience:
         # * Modelling
         # * Deploying
         
-  - title: Research \& Development Engineer
+  - title: Research \& Development Engineer II
     company: Ansys, Inc.
     company_url: 'www.ansys.com'
     # company_logo: channels4_profile

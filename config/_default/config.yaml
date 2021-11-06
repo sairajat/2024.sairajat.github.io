@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rajat Arora # Website name
-baseurl: 'https://www.rajatarora.in/' # Website URL
+baseurl: 'https://sairajat.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

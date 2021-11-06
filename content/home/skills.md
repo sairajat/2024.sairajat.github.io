@@ -25,6 +25,13 @@ feature:
 # - description: 90%
   icon: laptop-code
   icon_pack: fas
+
+- name: Data Structures / Algorithm
+# - description: 90%
+  icon: file-code
+  icon_pack: fas
+  
+
 - name: Machine Learning
 # - description: 100%
   icon: project-diagram

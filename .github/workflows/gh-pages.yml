@@ -33,6 +33,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: sairajat/sairajat.github.io
           publish_dir: ./public
-          publish_brach: master
+          publish_branch: master
           user_name: Rajat Arora
           user_email: rajat.arora9464@gmail.com

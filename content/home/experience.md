@@ -33,7 +33,7 @@ experience:
     description: |2-
         Responsibilities include:
         * Developing Physics-Informed Neural networks  to accelerate scientific discovery and design
-        * Optimization of code for GPUs
+        * Optimization of code for GPUs before deployment (on cloud)
         * Tools used: PyTorch, TensorFlow
         
   - title: Research \& Development Engineer II
@@ -45,7 +45,8 @@ experience:
     date_end: '2020-07-31'
     description: |2-
         Responsibilities include:
-        * Developed and Maintain solver for the Ansys Twinbuilder       product
+        * Develop and maintain core solver for the Ansys Twinbuilder product
+        * Lead developer of the Digital Twin Development framework for the Twinbuilder team
         * Tools used: C++, Python
     # description: Taught electronic engineering and researched semiconductor physics.
 

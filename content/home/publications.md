@@ -11,7 +11,7 @@ weight: 90
 
 active: true
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:

@@ -14,14 +14,15 @@ organizations:
   url: https://www.siemens.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
+#My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
 - Software development
 - Machine Learning
-- Numerical and Applied Mathematics
-- High Preformance Computing
+- Applied Mathematics
+- High Performance Computing
 
 # Education to show in About widget
 education:

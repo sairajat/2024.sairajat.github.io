@@ -26,17 +26,17 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computational Mechanics
-    institution: Carnegie Mellon University
+  - course: Ph.D. in Computational Mechanics
+    institution: Carnegie Mellon University, USA
     year: 2019
-  - course: MS in Computational Mechanics
-    institution: Carnegie Mellon University
+  - course: M.S. in Computational Mechanics
+    institution: Carnegie Mellon University, USA
     year: 2018
-  - course: MTech in Mechanical Engineering
-    institution: Indian Institute of Technology Kanpur (IITK)
+  - course: M.Tech. in Mechanical Engineering
+    institution: Indian Institute of Technology Kanpur (IITK), India
     year: 2014
-  - course: BTech in Mechanical Engineering
-    institution: Indian Institute of Technology Kanpur (IITK)
+  - course: B.Tech. in Mechanical Engineering
+    institution: Indian Institute of Technology Kanpur (IITK), India
     year: 2014
 
 # Social/Academic Networking

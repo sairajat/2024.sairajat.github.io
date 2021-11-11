@@ -19,7 +19,7 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-- Software development
+- Software Development
 - Machine Learning
 - Applied Mathematics
 - High Performance Computing

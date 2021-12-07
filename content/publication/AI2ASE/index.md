@@ -1,8 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "For a most recent list of my publications please see my resume (at the top)"
-authors: []
+title: "Machine Learning-Accelerated Computational Solid Mechanics - Application to Linear Elasticity"
+authors: 
+- admin
 date: 2021-11-06T04:13:59-04:00
 doi: ""
 
@@ -13,10 +14,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: 1st Annual **AAAI** Workshop on AI to Accelerate Science and Engineering (AI2ASE)
 publication_short: ""
 
 abstract: ""
@@ -36,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: 'uploads/AI2ASE.pdf'
 url_code:
 url_dataset:
 url_poster:
@@ -67,3 +68,14 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<!-- 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

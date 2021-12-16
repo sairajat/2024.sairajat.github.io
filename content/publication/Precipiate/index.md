@@ -3,7 +3,11 @@
 
 title: "Equilibrium shape of misfitting precipitates with anisotropic elasticity and anisotropic interfacial energy"
 authors: 
+- Tushar Joshi
 - admin
+- Anup Basak
+- Anurag Gupta
+
 date: 2020-09-22T04:13:59-04:00
 doi: ""
 

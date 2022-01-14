@@ -76,7 +76,7 @@ highlight_name: true
 ---
 Dr. Rajat Arora graduated with a Ph.D. in the field of Computational Mechanics from Carnegie Mellon University (CMU). His research at the time focused on numerical analysis, material science, and scientific software development. 
 
-Currently, Dr. Arora is a research scientist at Siemens Technology where his current research focuses on developing computational and (physics-informed) machine learning tools to accelerate scientific discovery and engineering design. Prior to joining Siemens, Dr. Arora worked at Ansys, Inc. where he made notable enhancements to the core solver of the Twinbuilder product.
+Currently, Dr. Arora is a research scientist at Siemens Technology where his research focuses on developing computational and (physics-informed) machine learning tools to accelerate scientific discovery and engineering design. Prior to joining Siemens, Dr. Arora worked at Ansys, Inc. where he made notable enhancements to the core solver of the Twin Builder product.
 
 <!-- His interests involve developming high performance computing softwares. -->
 

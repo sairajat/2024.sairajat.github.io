@@ -6,7 +6,7 @@ title: Rajat Arora
 superuser: true
 
 # Role/position/tagline
-role: Senior member of technical staff at AMD
+role: Senior Member of Technical Staff
 
 # Organizations/Affiliations to show in About widget
 organizations:

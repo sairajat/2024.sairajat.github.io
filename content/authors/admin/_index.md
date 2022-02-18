@@ -10,8 +10,8 @@ role: Senior member of technical staff at AMD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Siemens Technology
-  url: https://www.siemens.com/
+- name: Advanced Micro Devices (AMD)
+  url: https://www.amd.com/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""

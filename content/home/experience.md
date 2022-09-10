@@ -27,8 +27,8 @@ experience:
     company_url: 'www.amd.com'
     # company_logo: org-gc
     location: Austin, Texas
-    date_start: '2020-08-03'
-    date_end: '2022-02-04'
+    date_start: '2022-02-14'
+    date_end: ''
 
     description: |2-
         Responsibilities include:

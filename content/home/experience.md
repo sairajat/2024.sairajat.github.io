@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Member of Technical Staff
+    company: Advanced Micro Devices, Inc. (AMD)
+    company_url: 'www.amd.com'
+    # company_logo: org-gc
+    location: Austin, Texas
+    date_start: '2020-08-03'
+    date_end: '2022-02-04'
+
+    description: |2-
+        Responsibilities include:
+        * Porting of scientific applications from CPU to GPUs
+        * Optimization of code for GPUs before deployment (on cloud)
+
   - title: Research Scientist
     company: Siemens
     company_url: 'www.siemens.com'
     # company_logo: org-gc
     location: Princeton, New Jersey
     date_start: '2020-08-03'
-    date_end: ''
+    date_end: '2022-02-04'
 
     description: |2-
         Responsibilities include:

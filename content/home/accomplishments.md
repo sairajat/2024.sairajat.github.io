@@ -32,12 +32,12 @@ item:
   title: Neural Networks and Deep Learning
   url: ""
 
-- organization_url: https://www.udemy.com
+- organization: Udemy
+  organization_url: https://www.udemy.com
   certificate_url: "uploads/CppCertificate.jpg"
   date_end: ""
   date_start: "2016-01-01"
   # description: Advanced C++ programming course.
-  organization: Udemy
   title: Advanced C++ programming
   url: ""
 

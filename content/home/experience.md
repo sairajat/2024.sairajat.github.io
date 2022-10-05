@@ -30,10 +30,10 @@ experience:
     date_start: '2022-02-14'
     date_end: ''
 
-    description: |2-
-        Responsibilities include:
-        * Porting of scientific applications from CPU to GPUs
-        * Optimization of code for GPUs before deployment (on cloud)
+    # description: |2-
+        # Responsibilities include:
+        # * Porting of scientific applications from CPU to GPUs
+        # * Optimization of code for GPUs before deployment (on cloud)
 
   - title: Research Scientist
     company: Siemens
@@ -43,11 +43,11 @@ experience:
     date_start: '2020-08-03'
     date_end: '2022-02-04'
 
-    description: |2-
-        Responsibilities include:
-        * Developing Physics-Informed Neural networks  to accelerate scientific discovery and design
-        * Optimization of code for GPUs before deployment (on cloud)
-        * Tools used: PyTorch, TensorFlow
+    # description: |2-
+    #     Responsibilities include:
+    #     * Developing Physics-Informed Neural networks  to accelerate scientific discovery and design
+    #     * Optimization of code for GPUs before deployment (on cloud)
+    #     * Tools used: PyTorch, TensorFlow
         
   - title: Research \& Development Engineer II
     company: Ansys, Inc.
@@ -56,11 +56,11 @@ experience:
     location: Pittsburgh, PA
     date_start: '2019-03-25'
     date_end: '2020-07-31'
-    description: |2-
-        Responsibilities include:
-        * Develop and maintain core solver for the Ansys Twinbuilder product
-        * Lead developer of the Digital Twin Development framework for the Twinbuilder team
-        * Tools used: C++, Python
+    # description: |2-
+    #     Responsibilities include:
+    #     * Develop and maintain core solver for the Ansys Twinbuilder product
+    #     * Lead developer of the Digital Twin Development framework for the Twinbuilder team
+    #     * Tools used: C++, Python
     # description: Taught electronic engineering and researched semiconductor physics.
 
 design:

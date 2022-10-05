@@ -61,6 +61,9 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Rajat-Arora-9
 
+- icon: cv
+  icon_pack: ai
+  link: https://www.rajatarora.in/uploads/Resume_Arora.pdf
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -84,4 +87,4 @@ Currently, Dr. Arora is a senior member of techical staff at AMD. Prior to joini
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Arora.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Arora.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

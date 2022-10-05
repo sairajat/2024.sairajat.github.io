@@ -16,12 +16,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- name: Python
+# - name: 
 # - description: 90%
-  icon: python
-  icon_pack: fab
+  # icon: python
+  # icon_pack: fab
 
-- name: C++
+- name: Python, C/C++, FORTRAN
 # - description: 90%
   icon: laptop-code
   icon_pack: fas
@@ -45,7 +45,7 @@ feature:
 - icon: chart-line
 # - description: 100%
   icon_pack: fas
-  name: Distributed Computing
+  name: High Performance Computing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -20,9 +20,12 @@ bio: ""
 # Interests to show in About widget
 interests:
 - Software Development
+- Scientific Computing
 - Machine Learning
+- Parallel/Distributed Computing
 - Applied Mathematics
 - High Performance Computing
+
 
 # Education to show in About widget
 education:

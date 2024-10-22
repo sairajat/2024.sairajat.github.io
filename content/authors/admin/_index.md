@@ -85,7 +85,7 @@ highlight_name: true
 ---
 Dr. Rajat Arora graduated with a Ph.D. in the field of Computational Mechanics from Carnegie Mellon University (CMU). His research at the time focused on numerical analysis, material science, and high performance scientific software development.
 
-Currently, dr. Arora is a senior machine learning engineer at Apple. Prior to joining Apple, Dr. Arora was a senior member of techical staff at AMD where he worked on optimizing large scale HPC and ML codes on data center GPUs. Prior to joining AMD, he was a research scientist at Siemens Technology where his research focused on developing computational and (physics-informed) machine learning tools to accelerate scientific discovery and engineering design. Dr. Arora worked at Ansys, Inc. before joining Siemens where he made notable enhancements to the core solver of the Twin Builder product.
+Currently, Dr. Arora is a senior machine learning engineer at Apple. Prior to joining Apple, Dr. Arora was a senior member of techical staff at AMD where he worked on optimizing large scale HPC and ML codes on data center GPUs. Prior to joining AMD, he was a research scientist at Siemens Technology where his research focused on developing computational and (physics-informed) machine learning tools to accelerate scientific discovery and engineering design. Dr. Arora worked at Ansys, Inc. before joining Siemens where he made notable enhancements to the core solver of the Twin Builder product.
 
 <!-- His interests involve developming high performance computing softwares. -->
 

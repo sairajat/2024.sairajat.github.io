@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Machine Learning Engineer
+    company: Apple
+    company_url: 'https://www.apple.com'
+    # company_logo: org-gc
+    location: Austin, Texas
+    date_start: '2024-10-7'
+    date_end: ''
+
+    # description: |2-
+        # Responsibilities include:
+        # * Porting of scientific applications from CPU to GPUs
+        # * Optimization of code for GPUs before deployment (on cloud)
+
   - title: Senior Member of Technical Staff
     company: Advanced Micro Devices, Inc. (AMD)
-    company_url: 'www.amd.com'
+    company_url: 'https://www.amd.com'
     # company_logo: org-gc
     location: Austin, Texas
     date_start: '2022-02-14'
-    date_end: ''
+    date_end: '2024-10-04'
 
     # description: |2-
         # Responsibilities include:
@@ -37,7 +50,7 @@ experience:
 
   - title: Research Scientist
     company: Siemens
-    company_url: 'www.siemens.com'
+    company_url: 'https://www.siemens.com'
     # company_logo: org-gc
     location: Princeton, New Jersey
     date_start: '2020-08-03'
@@ -51,7 +64,7 @@ experience:
         
   - title: Research \& Development Engineer II
     company: Ansys, Inc.
-    company_url: 'www.ansys.com'
+    company_url: 'https://www.ansys.com'
     # company_logo: channels4_profile
     location: Pittsburgh, PA
     date_start: '2019-03-25'

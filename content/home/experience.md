@@ -26,7 +26,7 @@ experience:
     company: Apple
     company_url: 'https://www.apple.com'
     # company_logo: org-gc
-    location: Austin, Texas
+    location: Seattle, Washington
     date_start: '2024-10-7'
     date_end: ''
 

@@ -12,6 +12,7 @@ role: Senior Machine Learning Engineer
 organizations:
 - name: Apple
   url: https://www.apple.com
+  icon: linkedin
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -19,9 +20,9 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-- Software Development
-- Scientific Computing
 - Machine Learning
+- Software Development
+- HW/SW Co-Design
 - Parallel/Distributed Computing
 - Applied Mathematics
 - High Performance Computing
